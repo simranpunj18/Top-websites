@@ -1,0 +1,5 @@
+var topWebsites = ["Youtube.com","Snapchat.com","crumblcookies.com","instagram.com","reddit.com"];
+topWebsites[0] = "codehs.com";
+println(topWebsites[0]);
+topWebsites[0] = "youtube.com";
+println(topWebsites[0]);
